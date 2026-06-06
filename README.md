@@ -115,12 +115,10 @@ Adventure Works Sales Analysis is a Business Intelligence project completed usin
  ## Dashboard 
  ## EXCEL DASHBOARDS 
  <img width="1405" height="896" alt="Excel Screenshot" src="https://github.com/user-attachments/assets/f9980225-aa7f-43ea-9f6b-d2f376747ac2" />
-" /> 
+
  
  ## POWER BI DASHBOARDS
- <img width="1441" height="805" alt="Power BI Screenshot" src="https://github.com/user-attachments/assets/e4280a2c-f4ec-4feb-9332-3fd72d7373f6" />
-" /> 
+ <img width="1441" height="805" alt="Power BI Screenshot" src="https://github.com/user-attachments/assets/e4280a2c-f4ec-4feb-9332-3fd72d7373f6" /> 
  
  ## TABLEAU DASHBOARD
  <img width="1411" height="809" alt="Tableau Screenshot" src="https://github.com/user-attachments/assets/b8baeb27-72fd-4e61-b3f1-aef786aeada9" />
-" />
