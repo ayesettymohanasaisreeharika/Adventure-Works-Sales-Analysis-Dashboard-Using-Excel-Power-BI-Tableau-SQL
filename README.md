@@ -87,7 +87,7 @@ Adventure Works Sales Analysis is a Business Intelligence project completed usin
 <a href="https://github.com/ayesettymohanasaisreeharika/Adventure-Works-Sales-Analysis-Dashboard-Using-Excel-Power-BI-Tableau-SQL/blob/915e7697585b7c077510566960d7d0315ce16fdf/Screenshots%20of%20Dashboards/Tableau%20Screenshot.png">TABLEAU-Dashboard</a>
 
 ## MYSQL 
-<a href="">MYSQL</a> 
+<a href="https://github.com/ayesettymohanasaisreeharika/Adventure-Works-Sales-Analysis-Dashboard-Using-Excel-Power-BI-Tableau-SQL/blob/729aeee3bea6949015d90331e7132be0163ec85c/Dashboards/Adventure%20works%20sql%20project.sql">MYSQL</a> 
 
 ## Adventure Works Sales Analysis – Process
 - Data Collection : Imported Fact and Dimension tables from Adventure Works datasets.
