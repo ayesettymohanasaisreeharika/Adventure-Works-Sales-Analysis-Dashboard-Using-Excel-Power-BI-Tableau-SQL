@@ -2,7 +2,7 @@
 Adventure Works Sales Analysis is a Business Intelligence project using Excel, SQL, Tableau, and Power BI to analyze sales, customers, products, and regional performance through KPIs, data modeling, and interactive dashboards. 📊🚀
 
 # Adventure-Works-Sales-Analysis-Dashboard 
-## Project Objectuve
+## Project Objective
 Adventure Works Sales Analysis is a Business Intelligence project completed using Excel, SQL, Tableau, and Power BI to analyze sales performance, customer behavior, product profitability, and regional sales trends. The project involved data modeling, KPI creation, data analysis, and interactive dashboards to uncover valuable business insights, helping organizations improve sales strategies, customer engagement, and decision-making.
 
 ## Dataset Used 
